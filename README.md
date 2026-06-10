@@ -1,10 +1,9 @@
-## 👋 Hi there, I'm Vincent Li
+## 👋 Hi there, I'm Vincent
 
 
-- 🔭 I’m interested in exploring new programming skills and applications of large language models and computer vision models
-- 🌱 I’m currently doing research on LLMs and also learning frontend-backend integration
+- 🔭 I’m interested in mechanistic interpretability and AI safety research
+- 🌱 I’m currently an MLE at Annapurna Labs
 - 📫 You can reach me via email 📧 vinli@bu.edu or LinkedIn https://www.linkedin.com/in/vinli0921/
-- ⚡ Fun fact: I have an 80lb (36kg) 🐕 German Shepherd at home
 
 ## My Skills 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,py,java,cpp,js,ts,react,nextjs,nodejs,threejs,html,css,tailwind,supabase,sqlite,docker,vercel,heroku,tensorflow,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,py,java,cpp,js,ts,react,git,bash,nextjs,nodejs,aws,supabase,sqlite,kubernetes,openshift,docker,vercel,tensorflow,opencv)](https://skillicons.dev)
